@@ -1,0 +1,12 @@
+{
+  "name": "face_recog_api",
+  "version": "1.0.0",
+  "description": "Api files for face recognition api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Pooja TR",
+  "license": "ISC"
+}
